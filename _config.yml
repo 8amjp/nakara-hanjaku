@@ -1,0 +1,17 @@
+title: 半ら半尺な僕は舌先三寸なキミに恋をしたのかもしれない
+author: 8amjp
+description: >
+  キミの言葉は嘘ばかり。だけど、半端な僕にはそれで十分なのかもしれない。
+index: manual
+
+type: novel
+google_analytics: UA-41627578-3
+twitter:
+  username: 8amjp
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
